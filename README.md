@@ -1,1 +1,1 @@
-# 🚀 Aipage.Ai - An AI-powered search engine 🔎 <!-- omit in toc -->
+# 🚀 AiPage.Ai - An AI-powered search engine 🔎 <!-- omit in toc -->
